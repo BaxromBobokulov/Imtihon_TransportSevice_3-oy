@@ -1,0 +1,9 @@
+
+[Sat Jan 31 2026 20:23:13 GMT+0500 (Uzbekistan Standard Time)]--GET--/api/staffs--undefined--Error: You cannot do it without permission
+    at file:///C:/Users/User/OneDrive/Desktop/Imtihon/src/middleware/role.guard.js:17:23
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[Sat Jan 31 2026 21:30:40 GMT+0500 (Uzbekistan Standard Time)]--POST--/api/addStaff--undefined
+[Sat Jan 31 2026 21:31:13 GMT+0500 (Uzbekistan Standard Time)]--POST--/api/addStaff--undefined
+[Sat Jan 31 2026 21:31:57 GMT+0500 (Uzbekistan Standard Time)]--POST--/api/addStaff--undefined
+[Sat Jan 31 2026 21:32:59 GMT+0500 (Uzbekistan Standard Time)]--POST--/api/addStaff--undefined
+[Sat Jan 31 2026 21:34:03 GMT+0500 (Uzbekistan Standard Time)]--POST--/api/addStaff--undefined
