@@ -8,7 +8,7 @@ import transportRouter from "./routers/transport.route.js"
 import permissonRouter from "./routers/permission.route.js"
 import fs from "fs"
 import { join } from "path"
-import { Logger } from "./logs/logger.js"
+// import { Logger } from "./logs/logger.js"
 config()
 const server = express()
 server.use(express.json())
@@ -32,7 +32,7 @@ server.use((error, req, res, next) => {
         })
     } else {
         let errorText = `\n[${new Date()}]--${req.method}--${req.url}--${req.message}`
-        Logger(errorText)
+        // Logger(errorText)
         fs.appendFileSync(join(process.cwd(), "src", "logs", "error.txt"), errorText)
 
         return res.status(500).json({

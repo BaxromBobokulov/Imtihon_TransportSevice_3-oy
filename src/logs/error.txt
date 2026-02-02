@@ -7,3 +7,5 @@
 [Sat Jan 31 2026 21:31:57 GMT+0500 (Uzbekistan Standard Time)]--POST--/api/addStaff--undefined
 [Sat Jan 31 2026 21:32:59 GMT+0500 (Uzbekistan Standard Time)]--POST--/api/addStaff--undefined
 [Sat Jan 31 2026 21:34:03 GMT+0500 (Uzbekistan Standard Time)]--POST--/api/addStaff--undefined
+[Mon Feb 02 2026 08:39:10 GMT+0500 (Uzbekistan Standard Time)]--POST--/api/addStaff--undefined
+[Mon Feb 02 2026 08:48:40 GMT+0500 (Uzbekistan Standard Time)]--PUT--/api/updateTransport/69801e1461c1a67b9dcb7509--undefined
